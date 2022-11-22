@@ -41,57 +41,25 @@
     - 인터페이스 D1과 C1 모두 IP를 자유롭게 정할 수 있으므로, 마지막 옥텟이 같은 서브넷에 속하도록 해서 기입하면 된다.
 
 ## Level 3
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 4
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 5
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 6
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 7
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 8
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 9
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
 
 ## Level 10
-<details>
-<summary>보기/접기</summary>
 
-
-</details>
