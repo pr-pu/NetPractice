@@ -39,56 +39,57 @@
         - 기본 서브넷 마스크인 `255.255.255.0`에서 비트를 추가로 6개 더 사용한다는 것은, 서브넷을 2^6인 64개를 만들 수 있으며, 각 서브넷마다 호스트를 2^2에서 네트워크 주소, 브로드캐스팅 주소 2개를 뺀 2개를 연결할 수 있음을 의미한다.
         - 2대의 호스트만 연결할 수 있으므로, 마지막 옥텟을 기준으로 0 ~ 4의 경우, 0은 네트워크 주소, 1과 2는 호스트, 3은 브로드캐스팅 주소가 된다. 따라서, 통신 가능한 호스트들의 조합은 (1, 2), (5, 6), (9, 10), ..., (249, 250), (253, 254)이 된다. 연결해야 하는 기기가 2개인 경우, 대역을 최소화하여 사용하기 위해 서브넷 마스크를 `/30`으로 정하면 편리하다.
     - 인터페이스 D1과 C1 모두 IP를 자유롭게 정할 수 있으므로, 마지막 옥텟이 같은 서브넷에 속하도록 해서 기입하면 된다.
-### Level 3
+
+## Level 3
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 4
+## Level 4
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 5
+## Level 5
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 6
+## Level 6
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 7
+## Level 7
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 8
+## Level 8
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 9
+## Level 9
 <details>
 <summary>보기/접기</summary>
 
 
 </details>
 
-### Level 10
+## Level 10
 <details>
 <summary>보기/접기</summary>
 
